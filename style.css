@@ -1,0 +1,35 @@
+body{
+    display: flex;
+    flex-direction:column;
+    
+    
+    background-color: rgb(163, 161, 161);
+}
+
+
+h1{
+    font-family: Verdana;
+    color: rgba(255, 51, 0, 0.815);
+    font-size: 60px;
+    
+}
+
+.bloc{
+    margin: 0 auto;
+    margin-top: 50px;
+    background-color: rgb(145, 142, 142);
+    box-shadow: 14px 11px 10px rgba(0,0,0,0.5);
+    text-align: center;
+    
+    width: 450px;
+    
+    border-radius: 10px;
+    border: solid #333 2px;
+}
+
+
+
+
+
+
+
